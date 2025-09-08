@@ -27,68 +27,72 @@
 
 ## 1. Business Requirements
 ### 1.1 Background
-*(text goes here)*
+
 
 ### 1.2 Business Opportunity
-*(text goes here)*
+
 
 ### 1.3 Business Objectives
-*(text goes here)*
+*(Skrifaðu þennan kafla)*
 
 ### 1.4 Success Metrics
-*(text goes here)*
+
 
 ### 1.5 Vision Statement
-*(text goes here)*
+*(Skrifaðu þennan kafla)*
 
 ### 1.6 Business Risks
-*(text goes here)*
+
 
 ### 1.7 Business Assumptions and Dependencies
-*(text goes here)*
+
 
 ---
 
 ## 2. Scope and Limitations
 ### 2.1 Major Features
-*(text goes here)*
+
 
 ### 2.2 Scope of Initial and Subsequent Releases
-*(text goes here)*
+*(Skrifaðu þennan kafla )*
 
 ### 2.3 Limitations and Exclusions
-*(text goes here)*
+
 
 ---
 
 ## 3. Business Context
 ### 3.1 Stakeholder Profiles
-*(text goes here)*
+*(Skrifaðu þennan kafla )*
 
 ### 3.2 Project Priorities
-*(text goes here)*
+
 
 ### 3.3 Deployment Considerations
-*(text goes here)*
+
 
 ## Revision History
+<!--
 Í stað þess að halda utan um alla commit-sögu er aðeins skráð formleg útgáfa (milestones) með Git tags (merkjum).  
 Hver lína í töflunni samsvarar tag (merki) sem hefur verið sett í Git repositoryið.
 > 🔖 Revision History er viðhaldið með **Git tags**.  
 > Þegar ný útgáfa (t.d. drög eða baseline) er tilbúin, búið til tag í Git (`git tag -a vX.Y -m "message" && git push origin vX.Y`)  
-> og bætið einni línu við í töfluna hér að neðan.
+> sem bætir einni línu við í töfluna hér að neðan.
+-->
+> 🔖 Taflan hér á eftir er búin til með því að keyra shell skrána `updatevisionhistory.sh` í bash terminal
+> 
+>  `chmod +x updatevisionhistory.sh`
+> 
+>  `./updatevisionhistory.sh`
+> 
+>  Ef þú vilt skoða töfluna fyrst til að sjá hvernig hún kemur út geturðu gert eftirfarandi beint úr skelinni 
+> `git log -n 5 --pretty=format:"| %an | %ad | %s | %h |" --date=short -n 10 -- VISIONSCOPE.md`
 
-Taflan er á eftir er búin til með því að keyra shell skrána updatevisionhistory.sh
-
-> git log -n 5 --pretty=format:"| %an | %ad | %s | %h |" --date=short
-
-
-> 🔖 Taflan hér að neðan er sjálfvirkt byggð á `git log` fyrir þessa skrá.
 
 <!-- GIT_HISTORY_START -->
 | Author | Date       | Message | Commit |
 |--------|------------|---------|--------|
-| _no commits found_ |  |  |  |
+| Ebba Þóra Hvannberg | 2025-09-08 | fyrsta útgáfa og Revision history gert sjálfvirkt | 5b39409 |
 
 <!-- GIT_HISTORY_END -->
 

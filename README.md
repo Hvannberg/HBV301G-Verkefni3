@@ -9,4 +9,6 @@ fyrir verkefni 3
 
 -- **VERKASKIPTING-IGRUNDUN.md Í lokin lýsa nemendur verkaskiptingu og ígrunda verkefnið
 
+-- **updatevisionhistory.sh - shell skripta til að búa til breytingasögu í VISIONSCOPE.md
+
 Athugið þú skrifar þína eigin README.md skrá fyrir verkefnið þitt 

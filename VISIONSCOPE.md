@@ -45,6 +45,10 @@
 ### 1.5 Framtíðarsýn
 *(Skrifaðu þennan kafla)*
 
+[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
+includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
+the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
+enterprise architectures, organizational strategic directions, and cost and resource limitations ]
 ### 1.6 Viðskiptaáhætta
 
 
@@ -60,6 +64,12 @@
 ### 2.2 Umfang fyrstu útgáfu
 *(Skrifaðu þennan kafla )*
 
+[Describe the intended major features that will be included in the initial release of the product. 
+Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
+product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
+include every possible feature that any potential customer category might conceivably want some day.
+Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+
 ### 2.3 Takmarkanir og útilokanir
 
 
@@ -68,6 +78,18 @@
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
 *(Skrifaðu þennan kafla )*
+
+[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
+
+- improved productivity
+- 	reduced rework 
+- cost savings	
+- streamlined business processes	
+- automation of previously manual tasks	
+- ability to perform entirely new tasks or functions	
+- conformance to current standards or regulations	
+- improved usability or reduced frustration level compared to current applications
+]
 
 ### 3.2 Forgangsröðun verkefnis 
 

@@ -82,7 +82,7 @@ Focus on those features and product characteristics  that will provide the most 
 [ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
 
 - improved productivity
-- 	reduced rework 
+- reduced rework 
 - cost savings	
 - streamlined business processes	
 - automation of previously manual tasks	
@@ -90,6 +90,8 @@ Focus on those features and product characteristics  that will provide the most 
 - conformance to current standards or regulations	
 - improved usability or reduced frustration level compared to current applications
 ]
+Setjið gjarnan upp í töflu sbr námsefnið 
+
 
 ### 3.2 Forgangsröðun verkefnis 
 
